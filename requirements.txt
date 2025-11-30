@@ -1,0 +1,9 @@
+torch>=1.13
+torchaudio
+transformers>=4.0
+librosa
+scikit-learn
+joblib
+tqdm
+numpy
+soundfile
