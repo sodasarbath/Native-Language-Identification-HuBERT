@@ -27,7 +27,6 @@ recommendation demo based on the detected accent.
 ---
 
 ## Dataset
-
 This project uses the **IndicAccentDB** dataset:
 https://huggingface.co/datasets/DarshanaS/IndicAccentDb
 
@@ -36,8 +35,7 @@ The dataset is *not included* in this repository.
 ---
 
 ## Notes
-
-- The dataset, extracted features, and trained models are **not included** here.
+The dataset, extracted features, and trained models are **not included** here.
 
 ---
 
